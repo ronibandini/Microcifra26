@@ -205,20 +205,6 @@ This architecture makes it possible to expose physical cyberdeck functions to an
 
 ---
 
-## 🎮 GPIO Joystick
-
-MAME is installed on the Linux host, currently running **Commando**.
-
-A physical joystick is connected through GPIO to the RP2040 rather than appearing as a conventional USB game controller.
-
----
-
-## 🧱 Enclosure
-
-The enclosure was custom modeled for 3D printing, with the design split into multiple parts to fit the build volume of a **Bambu Lab A1 mini**.
-
----
-
 ## 👤 Author
 
 **Roni Bandini**

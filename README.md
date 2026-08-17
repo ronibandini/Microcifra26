@@ -204,6 +204,10 @@ The Linux layer also runs **OpenClaw** and local LLMs through **llama.cpp**. Rem
 This architecture makes it possible to expose physical cyberdeck functions to an AI agent—for example, allowing an agent to interact with the camera or other hardware rather than limiting it to conventional software interfaces.
 
 ---
+## Demo
+
+https://youtu.be/6wZkjQE8VtE
+---
 
 ## 👤 Author
 
